@@ -1,8 +1,8 @@
 ﻿namespace LoggingKata.Test;
 
-public class UnitTest1
+public class TacoParserTests
 {
-    [Fact]
+    [Theory]
     public void Test1()
     {
 
